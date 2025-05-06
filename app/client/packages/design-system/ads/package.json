@@ -18,10 +18,10 @@
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.0.2",
-    "@radix-ui/react-dropdown-menu": "^2.0.4",
+    "@radix-ui/react-dropdown-menu": "^2.1.0",
     "@radix-ui/react-hover-card": "^1.0.7",
-    "@radix-ui/react-popover": "^1.0.6",
-    "@radix-ui/react-tabs": "^1.0.2",
+    "@radix-ui/react-popover": "^1.1.0",
+    "@radix-ui/react-tabs": "^1.1.0",
     "@react-aria/checkbox": "^3.7.1",
     "@react-aria/focus": "^3.10.1",
     "@react-aria/link": "^3.3.6",
@@ -34,13 +34,13 @@
     "@xstyled/styled-components": "^3.8.0",
     "@xstyled/system": "^3.8.1",
     "csstype": "^3.1.2",
-    "date-fns": "^2.29.3",
+    "date-fns": "^3.0.0",
     "overlayscrollbars": "^2.7.2",
     "overlayscrollbars-react": "^0.5.6",
-    "rc-select": "^14.4.3",
+    "rc-select": "^14.13.0",
     "rc-table": "^7.35.2",
-    "rc-tooltip": "^5.3.1",
-    "react-datepicker": "^4.10.0",
+    "rc-tooltip": "^6.0.0",
+    "react-datepicker": "^6.0.0",
     "react-toastify": "9.0.3"
   }
 }
