@@ -118,7 +118,7 @@
     "axios": "^1.7.4",
     "classnames": "^2.3.1",
     "clsx": "^1.2.1",
-    "codemirror": "^5.65.13",
+    "codemirror": "^6.0.0",
     "codemirror-graphql": "^1.2.14",
     "colorjs.io": "^0.5.2",
     "copy-to-clipboard": "^3.3.1",
