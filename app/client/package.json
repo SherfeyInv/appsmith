@@ -156,7 +156,7 @@
     "lodash-es": "4.17.21",
     "loglevel": "^1.7.1",
     "lottie-web": "^5.7.4",
-    "mammoth": "^1.5.1",
+    "mammoth": "^1.11.0",
     "memoize-one": "^6.0.0",
     "micro-memoize": "^4.0.10",
     "microdiff": "^1.4.0",
